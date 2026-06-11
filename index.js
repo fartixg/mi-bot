@@ -60,7 +60,7 @@ const personajes = {
     }
 };
 
-client.once('ready', () => {
+client.once('clientReady', () => {
     console.log(`Bot conectado como ${client.user.tag}`);
 });
 client.on('interactionCreate', async (interaction) => {
