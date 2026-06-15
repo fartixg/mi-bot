@@ -64,6 +64,17 @@ const personajes = {
         color: '#b700ef',
         titulo: 'Guía del personaje Jiuyuan <:Nanally_1:1503908390802559157>',
         imagen: 'https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-07.jpg'
+    },
+    baicang: {
+        color: '#5000ef',
+        titulo: 'Guía del personaje Baicang <:Nanally_1:1503908390802559157>',
+        imagen: 'https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-13.jpg'
+    },
+
+    haniel: {
+        color: '#ef009b',
+        titulo: 'Guía del personaje Haniel <:Nanally_1:1503908390802559157>',
+        imagen: 'https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-12.jpg'
     }
 };
 
