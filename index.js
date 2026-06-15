@@ -279,6 +279,48 @@ client.on('messageCreate', (message) => {
         embeds: [embed]
     });
 
+  } else if (personaje === 'baicang') {
+
+    const embed = new EmbedBuilder()
+        .setColor('#ef009b')
+        .setAuthor({
+            name: 'FartixG - Dueño',
+            iconURL: 'https://koya.gg/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F388641980453748748%2F5e356094b30df8f5ecae2ae4d4490d2a.png%3Fsize%3D512&w=128&q=75'
+        })
+        .setTitle('Guía del personaje Baicang <:Nanally_1:1503908390802559157>')
+        .setDescription(
+            'Para más guías como esta ve a\n<#1501509689228263425>'
+        )
+        .setImage('https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-13.jpg')
+        .setFooter({
+            text: 'FartixG Squad'
+        });
+
+    message.reply({
+        embeds: [embed]
+    });
+
+ } else if (personaje === 'haniel') {
+
+    const embed = new EmbedBuilder()
+        .setColor('#ef009b')
+        .setAuthor({
+            name: 'FartixG - Dueño',
+            iconURL: 'https://koya.gg/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F388641980453748748%2F5e356094b30df8f5ecae2ae4d4490d2a.png%3Fsize%3D512&w=128&q=75'
+        })
+        .setTitle('Guía del personaje Haniel <:Nanally_1:1503908390802559157>')
+        .setDescription(
+            'Para más guías como esta ve a\n<#1501509689228263425>'
+        )
+        .setImage('https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-12.jpg')
+        .setFooter({
+            text: 'FartixG Squad'
+        });
+
+    message.reply({
+        embeds: [embed]
+    });
+
  } else if (personaje === 'jiuyuan') {
 
     const embed = new EmbedBuilder()
