@@ -19,7 +19,7 @@ const commands = [
                     { name: 'Chiz', value: 'chiz' },
                     { name: 'Lacrimosa', value: 'lacrimosa' },
                     { name: 'Zero', value: 'zero' },
-                    { name: 'Jiuyuan', value: 'jiuyuan' }
+                    { name: 'Jiuyuan', value: 'jiuyuan' },
                     { name: 'Baicang', value: 'baicang' },
                     { name: 'Haniel', value: 'haniel' },
                 )
