@@ -282,7 +282,7 @@ client.on('messageCreate', (message) => {
   } else if (personaje === 'baicang') {
 
     const embed = new EmbedBuilder()
-        .setColor('#ef009b')
+        .setColor('#5000ef')
         .setAuthor({
             name: 'FartixG - Dueño',
             iconURL: 'https://koya.gg/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F388641980453748748%2F5e356094b30df8f5ecae2ae4d4490d2a.png%3Fsize%3D512&w=128&q=75'
