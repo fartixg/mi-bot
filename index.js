@@ -39,7 +39,7 @@ const personajes = {
     sakiri: {
         color: '#e70000',
         titulo: 'Guía del personaje Sakiri <:Nanally_1:1503908390802559157>',
-        imagen: 'https://raw.githubusercontent.com/fartixg/GUIAS/main/Sakiri%20guia%20NTE.jpg'
+        imagen: 'https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-14.jpg'
     },
 
     chiz: {
@@ -218,7 +218,7 @@ client.on('messageCreate', (message) => {
         .setDescription(
             'Para más guías como esta ve a\n<#1501509689228263425>'
         )
-        .setImage('https://raw.githubusercontent.com/fartixg/GUIAS/main/Sakiri%20guia%20NTE.jpg')
+        .setImage('https://raw.githubusercontent.com/fartixg/GUIAS/main/guias%20NTE-14.jpg')
         .setFooter({
             text: 'FartixG Squad'
         });
